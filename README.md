@@ -6,7 +6,7 @@ Landing page project για το FreeCodeCamp (Responsive Web Design).
 ---
 
 ## 🚀 Live Demo
-🔗 *(Βάλε εδώ όταν ενεργοποιήσεις GitHub Pages)*  
+🔗 *((https://antoniaske.github.io/devzen-landing-page/))*  
 `https://antoniaske.github.io/devzen-landing-page/`
 
 ---
